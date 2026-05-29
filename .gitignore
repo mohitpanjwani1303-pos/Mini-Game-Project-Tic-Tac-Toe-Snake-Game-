@@ -1,0 +1,9 @@
+# Compiled executable
+game.exe
+game
+
+# VS Code
+.vscode/
+
+# Mac
+.DS_Store
