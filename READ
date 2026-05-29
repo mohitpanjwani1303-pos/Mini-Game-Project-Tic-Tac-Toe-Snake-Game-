@@ -1,0 +1,33 @@
+# Tic Tac Toe Game in C++
+
+## Description
+A console-based Tic Tac Toe game developed in C++ using arrays, loops, functions, and conditional statements.
+
+## Features
+- Two-player mode
+- Dynamic board display
+- Win/loss detection
+- Draw detection
+- Replay option
+- Input validation
+
+## Technologies Used
+- C++
+- Object-Oriented Concepts
+- Console Programming
+
+## How to Run
+
+### Compile
+g++ main.cpp game.cpp -o game
+
+### Run
+./game
+
+## Project Structure
+- main.cpp → Main function
+- game.h → Function declarations
+- game.cpp → Game logic
+
+## Author
+Your Name
